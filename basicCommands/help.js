@@ -13,7 +13,7 @@ module.exports = {
       .setColor('#2b71ec')
       .setAuthor({
         name: 'Im here to Help!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1175487983915376662/1175667506791325706/communication.png?ex=656c10b0&is=65599bb0&hm=e378f1b355a2401bcab504b08a0766001d6b7c090c91ce0a7a7a87c868feb955&', 
+        iconURL: 'https://cdn.discordapp.com/attachments/1251168084018855979/1251188847832989788/9147-dark-n-purple-sky-banner-pfpsgg.gif?ex=666dabeb&is=666c5a6b&hm=45cbb2fab8c95ecffcdfb6bea471b4e24a19536e13c047ac3a2577ffdfcebb07&', 
         url: 'https://discord.com/invite/Szh2cEw5Yx'
     })
      
@@ -57,7 +57,7 @@ module.exports = {
         }
       )
       .setThumbnail(botUser.avatarURL({ dynamic: true, format: 'png', size: 1024 }))
-      .setImage(`https://cdn.discordapp.com/attachments/1113800537402527903/1236803979996958740/11.png?ex=6641e8b7&is=66409737&hm=96f69ba8bcde4ca44bf8713e22001e0bafad0335cfd1f57c439a34b4762f0e03&`);
+      .setImage(`https://cdn.discordapp.com/attachments/1251168084018855979/1251188847832989788/9147-dark-n-purple-sky-banner-pfpsgg.gif?ex=666dabeb&is=666c5a6b&hm=45cbb2fab8c95ecffcdfb6bea471b4e24a19536e13c047ac3a2577ffdfcebb07&`);
 
     const button1 = new ButtonBuilder()
       .setLabel('No Need')
